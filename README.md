@@ -2,6 +2,6 @@
   Olá, tudo bem?
 </h1>
 
-#### Connect with me:
+### Connect with me:
 
-#### Languages and Tools:
+### Languages and Tools:
