@@ -1,5 +1,5 @@
 # Hi there, I'm Lucas 👋
 
-Connect with me:
+## Connect with me:
 
-Languages and Tools:
+##Languages and Tools:
