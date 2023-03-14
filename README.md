@@ -1,6 +1,6 @@
 
 # Hi there, I'm Lucas 👋
-<p align="center">Escrever uma breve descrição</p>
+<p align="center"># Hi there, I'm Lucas 👋</p>
 
 #### Connect with me:
 
