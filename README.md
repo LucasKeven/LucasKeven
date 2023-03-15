@@ -16,7 +16,7 @@ https://www.artstation.com/lucaskeven
 
 
 ### Languages and Tools:
-<img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" width="40" height="40"/> <img src="https://icon-library.com/images/unreal-engine-icon/unreal-engine-icon-4.jpg" width="40" height="40" style="border-radius:10%"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968428.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968543.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968537.png" width="40" height="40"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" width="40" height="40"/> <img src="https://icon-library.com/images/unreal-engine-icon/unreal-engine-icon-4.jpg" width="40" height="40" style="border-radius: 50%;"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968428.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968543.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968537.png" width="40" height="40"/> 
 
 
 
