@@ -13,8 +13,8 @@
 
 <div>
   
-<a href="https://twitter.com/Lucas_Keven_VFX" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" height="40" target="_blank"></a>
-<a href="https://twitter.com/Lucas_Keven_VFX" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" height="40" target="_blank"></a>
+<a href="https://twitter.com/Lucas_Keven_VFX" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20" height="40" target="_blank"></a>
+
   
   
 </div>
