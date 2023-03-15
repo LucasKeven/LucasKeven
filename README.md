@@ -28,5 +28,3 @@
 <a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968428.png" width="40" height="40"> </a>
 <a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968543.png" width="40" height="40"> </a>
 <a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968537.png" width="40" height="40"> </a>
-
-https://i.imgur.com/XWyYpVn.png
