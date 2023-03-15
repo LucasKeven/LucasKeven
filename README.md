@@ -25,7 +25,7 @@ https://www.artstation.com/lucaskeven
 
 
 <picture>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968537.png" width="40" height="40">
+  <img alt="Image Alt Text" src="https://cdn-icons-png.flaticon.com/512/5968/5968537.png">
 </picture>
 
 
