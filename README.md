@@ -23,8 +23,8 @@ https://www.artstation.com/lucaskeven
 ### Languages and Tools:
 <img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" width="40" height="40"> <img src="https://i.imgur.com/lvoRPoC.png" width="40" height="40"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="40" height="40"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" width="40" height="40"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" width="40" height="40"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968428.png" width="40" height="40"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968543.png" width="40" height="40"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968537.png" width="40" height="40"> 
 
-https://cdn-icons-png.flaticon.com/512/5968/5968537.png
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968537.png" />
+<a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" width="40" height="40"> </a>
+
 
