@@ -7,10 +7,6 @@
 
 ### Connect with me:
 
-            <img src="" />
-          
-
-
 <div>
   
 <a href="https://twitter.com/Lucas_Keven_VFX" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="100" height="40" target="_blank"></a>
