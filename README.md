@@ -8,7 +8,7 @@
 ### Connect with me:
 
 
-<img src="https://icons8.com/icon/102925/twitter">
+<img src="https://img.icons8.com/material-sharp/256/twitter.png">
 
 https://twitter.com/Lucas_Keven_VFX
 https://www.artstation.com/lucaskeven
