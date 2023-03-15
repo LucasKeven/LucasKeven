@@ -17,12 +17,6 @@
 <a href="https://twitter.com/Lucas_Keven_VFX" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" width="40" height="40"> </a>
 <a href="mailto:lucas-keven@outlook.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/25/25236.png" width="40" height="40"> </a>
 
-https://cdn-icons-png.flaticon.com/512/5968/5968666.png
-https://twitter.com/Lucas_Keven_VFX
-
-
-
-
 ### Languages and Tools:
 
 <a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" width="40" height="40"> </a>
