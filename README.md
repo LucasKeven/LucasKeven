@@ -14,6 +14,8 @@
 
 
 <a href="https://twitter.com/Lucas_Keven_VFX" target="_blank"> <img src="https://img.icons8.com/material-sharp/256/twitter.png" width="40" height="40"> </a>
+<a href="https://twitter.com/Lucas_Keven_VFX" target="_blank"> <img src="https://img.icons8.com/material-sharp/256/twitter.png" width="40" height="40"> </a>
+<a href="https://twitter.com/Lucas_Keven_VFX" target="_blank"> <img src="https://img.icons8.com/material-sharp/256/twitter.png" width="40" height="40"> </a>
 
 https://twitter.com/Lucas_Keven_VFX
 https://www.artstation.com/lucaskeven
