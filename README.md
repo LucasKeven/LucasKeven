@@ -13,7 +13,7 @@
 ### Connect with me:
 <a href="https://www.linkedin.com/in/lucas-keven/" target="_blank"> <img src="https://i.imgur.com/UHZ6XQO.png" width="40" height="40"> </a>
 <a href="https://www.artstation.com/lucaskeven" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968666.png" width="40" height="40"> </a>
-<a href="https://twitter.com/Lucas_Keven_VFX" target="_blank"> <img src="https://i.imgur.com/bKacxoD.png" width="40" height="40"> </a>
+<a href="https://twitter.com/Lucas_Keven_Art" target="_blank"> <img src="https://i.imgur.com/bKacxoD.png" width="40" height="40"> </a>
 <a href="mailto:lucas-keven@outlook.com" target="_blank"> <img src="https://i.imgur.com/CiCPxju.png" width="40" height="40"> </a>
 
 ### Languages and Tools:
